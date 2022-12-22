@@ -1,10 +1,8 @@
 # Tech Markdown Badges
 
-List of Technology badges that can be added to your Projects or Profile.
+A collection of technology (framework, library, database, language) markdown badges that can be added to your projects or profile.
 
-## License
-
-[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+Full badges: https://github.com/Ileriayo/markdown-badges
 
 # Badges
 
