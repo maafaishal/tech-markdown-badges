@@ -6,7 +6,7 @@ Full badges: https://github.com/Ileriayo/markdown-badges
 
 # Badges
 
-<h2 id="frameworks-platforms-and-libraries">Frameworks, Platforms and Libraries</h2>
+## Frameworks, Platforms and Libraries
 <table>
 <thead>
 <tr>
@@ -893,7 +893,30 @@ de></td>
 </tr>
 </tbody>
 </table>
-<h2 id="languages">Languages</h2>
+
+## Bundlers and Compilers
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Badge</th>
+<th>Markdown</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Babel</td>
+<td><img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" alt="Babel"></td>
+<td>
+
+`![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)`
+
+</td>
+</tr>
+</tbody>
+</table>
+
+## Languages
 <table>
 <thead>
 <tr>
@@ -1274,7 +1297,8 @@ de></td>
 </tr>
 </tbody>
 </table>
-<h2 id="databases">Databases</h2>
+
+## Databases
 <table>
 <thead>
 <tr>
