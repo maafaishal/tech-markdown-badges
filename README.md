@@ -513,6 +513,15 @@ ay)</code></td>
 </td>
 </tr>
 <tr>
+<td>Puppeteer</td>
+<td><img src="https://img.shields.io/badge/puppeteer-white?style=for-the-badge&logo=puppeteer" alt="PowerShell"></td>
+<td>
+
+`![Puppeteer](https://img.shields.io/badge/puppeteer-white?style=for-the-badge&logo=puppeteer)`
+
+</td>
+</tr>
+<tr>
 <td>Qt</td>
 <td><img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt"></td>
 <td>
@@ -1143,15 +1152,6 @@ de></td>
 <td>
 
 `![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)`
-
-</td>
-</tr>
-<tr>
-<td>Puppeteer</td>
-<td><img src="https://img.shields.io/badge/puppeteer-white?style=for-the-badge&logo=puppeteer" alt="PowerShell"></td>
-<td>
-
-`![Puppeteer](https://img.shields.io/badge/puppeteer-white?style=for-the-badge&logo=puppeteer)`
 
 </td>
 </tr>
