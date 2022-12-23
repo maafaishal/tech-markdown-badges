@@ -35,6 +35,15 @@ Full badges: https://github.com/Ileriayo/markdown-badges
 </td>
 </tr>
 <tr>
+<td>AlpineJS</td>
+<td><img src="https://img.shields.io/badge/alpinejs-2D3441?style=for-the-badge&logo=alpinedotjs" alt="AlpineJS"></td>
+<td>
+
+`![AlpineJS](https://img.shields.io/badge/alpinejs-2D3441?style=for-the-badge&logo=alpinedotjs)`
+
+</td>
+</tr>
+<tr>
 <td>Anaconda</td>
 <td><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"></td>
 <td>
@@ -514,7 +523,7 @@ ay)</code></td>
 </tr>
 <tr>
 <td>Puppeteer</td>
-<td><img src="https://img.shields.io/badge/puppeteer-white?style=for-the-badge&logo=puppeteer" alt="PowerShell"></td>
+<td><img src="https://img.shields.io/badge/puppeteer-white?style=for-the-badge&logo=puppeteer" alt="Puppeteer"></td>
 <td>
 
 `![Puppeteer](https://img.shields.io/badge/puppeteer-white?style=for-the-badge&logo=puppeteer)`
