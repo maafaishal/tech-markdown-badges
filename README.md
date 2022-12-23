@@ -1147,6 +1147,15 @@ de></td>
 </td>
 </tr>
 <tr>
+<td>Puppeteer</td>
+<td><img src="https://img.shields.io/badge/puppeteer-white?style=for-the-badge&logo=puppeteer" alt="PowerShell"></td>
+<td>
+
+`![Puppeteer](https://img.shields.io/badge/puppeteer-white?style=for-the-badge&logo=puppeteer)`
+
+</td>
+</tr>
+<tr>
 <td>Python</td>
 <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"></td>
 <td>
