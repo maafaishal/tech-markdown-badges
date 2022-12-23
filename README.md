@@ -913,6 +913,15 @@ de></td>
 
 </td>
 </tr>
+<tr>
+<td>SWC</td>
+<td><img src="https://img.shields.io/badge/swc-111111?style=for-the-badge&logo=swc&logoColor=F5D140" alt="SWC"></td>
+<td>
+
+`![SWC](https://img.shields.io/badge/swc-111111?style=for-the-badge&logo=swc&logoColor=F5D140)`
+
+</td>
+</tr>
 </tbody>
 </table>
 
