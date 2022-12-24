@@ -424,10 +424,10 @@ ay)</code></td>
 </tr>
 <tr>
 <td>NPM</td>
-<td><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></td>
+<td><img src="https://img.shields.io/badge/npm-C12027?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></td>
 <td>
 
-`![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)`
+`![NPM](https://img.shields.io/badge/npm-C12027?style=for-the-badge&logo=npm&logoColor=white)`
 
 </td>
 </tr>
