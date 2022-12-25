@@ -2,8 +2,6 @@
 
 A collection of technology (framework, library, database, language) markdown badges that can be added to your projects or profile.
 
-Full badges: https://github.com/Ileriayo/markdown-badges
-
 # Badges
 
 ## Frameworks, Platforms and Libraries
