@@ -144,10 +144,10 @@ Full badges: https://github.com/Ileriayo/markdown-badges
 </tr>
 <tr>
 <td>Chakra UI</td>
-<td><img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra"></td>
+<td><img src="https://img.shields.io/badge/chakra-2BBFB3?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra"></td>
 <td>
 
-`![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)`
+`![Chakra](https://img.shields.io/badge/chakra-2BBFB3?style=for-the-badge&logo=chakraui&logoColor=white)`
 
 </td>
 </tr>
