@@ -143,7 +143,7 @@ Full badges: https://github.com/Ileriayo/markdown-badges
 </td>
 </tr>
 <tr>
-<td>[Chakra UI](https://chakra-ui.com/ "Chakra U")</td>
+<td> <a href="https://chakra-ui.com/">Chakra UI</a> </td>
 <td><img src="https://img.shields.io/badge/chakra-2BBFB3?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra"></td>
 <td>
 
