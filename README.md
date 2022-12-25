@@ -25,10 +25,10 @@ A collection of technology (framework, library, database, language) markdown bad
 </tr>
 <tr>
 <td>AdonisJS</td>
-<td><img src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS"></td>
+<td><img src="https://img.shields.io/badge/adonisjs-220052?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS"></td>
 <td>
 
-`![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)`
+`![AdonisJS](https://img.shields.io/badge/adonisjs-220052?style=for-the-badge&logo=adonisjs&logoColor=white)`
 
 </td>
 </tr>
@@ -43,37 +43,37 @@ A collection of technology (framework, library, database, language) markdown bad
 </tr>
 <tr>
 <td>Anaconda</td>
-<td><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"></td>
+<td><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"></td>
 <td>
 
-`![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)`
+`![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Angular</td>
-<td><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"></td>
+<td><img src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"></td>
 <td>
 
-`![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)`
+`![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Angular.js</td>
-<td><img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular.js"></td>
+<td><img src="https://img.shields.io/badge/angular.js-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular.js"></td>
 <td>
 
-`![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)`
+`![Angular.js](https://img.shields.io/badge/angular.js-E23237?style=for-the-badge&logo=angularjs&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Ant Design</td>
-<td><img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant-Design"></td>
+<td><img src="https://img.shields.io/badge/-AntDesign-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant-Design"></td>
 <td>
 
-`![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)`
+`![Ant-Design](https://img.shields.io/badge/-AntDesign-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)`
 
 </td>
 </tr>
@@ -97,28 +97,28 @@ A collection of technology (framework, library, database, language) markdown bad
 </tr>
 <tr>
 <td>Aurelia</td>
-<td><img src="https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=for-the-badge&logo=aurelia&logoColor=fff" alt="Aurelia"></td>
+<td><img src="https://img.shields.io/badge/aurelia-ED2B88?style=for-the-badge&logo=aurelia&logoColor=fff" alt="Aurelia"></td>
 <td>
 
-`![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=for-the-badge&logo=aurelia&logoColor=fff)`
+`![Aurelia](https://img.shields.io/badge/aurelia-ED2B88?style=for-the-badge&logo=aurelia&logoColor=fff)`
 
 </td>
 </tr>
 <tr>
 <td>Blazor</td>
-<td><img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"></td>
+<td><img src="https://img.shields.io/badge/blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"></td>
 <td>
 
-`![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)`
+`![Blazor](https://img.shields.io/badge/blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Bootstrap</td>
-<td><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></td>
+<td><img src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></td>
 <td>
 
-`![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)`
+`![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)`
 
 </td>
 </tr>
@@ -151,19 +151,19 @@ A collection of technology (framework, library, database, language) markdown bad
 </tr>
 <tr>
 <td>Chart.js</td>
-<td><img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"></td>
+<td><img src="https://img.shields.io/badge/chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"></td>
 <td>
 
-`![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)`
+`![Chart.js](https://img.shields.io/badge/chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Code Igniter</td>
-<td><img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" alt="Code-Igniter"></td>
+<td><img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white" alt="Code-Igniter"></td>
 <td>
 
-`![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)`
+`![Code-Igniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white)`
 
 </td>
 </tr>
@@ -178,19 +178,19 @@ A collection of technology (framework, library, database, language) markdown bad
 </tr>
 <tr>
 <td>Directus</td>
-<td><img src="https://img.shields.io/badge/directus-%2364f.svg?style=for-the-badge&logo=directus&logoColor=white" alt="Directus"></td>
+<td><img src="https://img.shields.io/badge/directus-64f?style=for-the-badge&logo=directus&logoColor=white" alt="Directus"></td>
 <td>
 
-`![Directus](https://img.shields.io/badge/directus-%2364f.svg?style=for-the-badge&logo=directus&logoColor=white)`
+`![Directus](https://img.shields.io/badge/directus-64f?style=for-the-badge&logo=directus&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Django</td>
-<td><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"></td>
+<td><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></td>
 <td>
 
-`![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)`
+`![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)`
 
 </td>
 </tr>
@@ -206,10 +206,10 @@ ay)</code></td>
 </tr>
 <tr>
 <td>Drupal</td>
-<td><img src="https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal"></td>
+<td><img src="https://img.shields.io/badge/drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal"></td>
 <td>
 
-`![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)`
+`![Drupal](https://img.shields.io/badge/drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)`
 
 </td>
 </tr>
@@ -242,10 +242,10 @@ ay)</code></td>
 </tr>
 <tr>
 <td>Express.js</td>
-<td><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"></td>
+<td><img src="https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB" alt="Express.js"></td>
 <td>
 
-`![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)`
+`![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)`
 
 </td>
 </tr>
@@ -260,37 +260,37 @@ ay)</code></td>
 </tr>
 <tr>
 <td>Fastify</td>
-<td><img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify"></td>
+<td><img src="https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify"></td>
 <td>
 
-`![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)`
+`![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Flask</td>
-<td><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></td>
+<td><img src="https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></td>
 <td>
 
-`![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)`
+`![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Flutter</td>
-<td><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"></td>
+<td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"></td>
 <td>
 
-`![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)`
+`![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Gatsby.js</td>
-<td><img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"></td>
+<td><img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"></td>
 <td>
 
-`![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)`
+`![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)`
 
 </td>
 </tr>
@@ -305,10 +305,10 @@ ay)</code></td>
 </tr>
 <tr>
 <td>Gulp</td>
-<td><img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp"></td>
+<td><img src="https://img.shields.io/badge/GULP-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp"></td>
 <td>
 
-`![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)`
+`![Gulp](https://img.shields.io/badge/GULP-CF4647?style=for-the-badge&logo=gulp&logoColor=white)`
 
 </td>
 </tr>
@@ -323,55 +323,55 @@ ay)</code></td>
 </tr>
 <tr>
 <td>Hugo</td>
-<td><img src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo" alt="Hugo"></td>
+<td><img src="https://img.shields.io/badge/Hugo-black?style=for-the-badge&logo=Hugo" alt="Hugo"></td>
 <td>
 
-`![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)`
+`![Hugo](https://img.shields.io/badge/Hugo-black?style=for-the-badge&logo=Hugo)`
 
 </td>
 </tr>
 <tr>
 <td>Ionic</td>
-<td><img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white" alt="Ionic"></td>
+<td><img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=Ionic&logoColor=white" alt="Ionic"></td>
 <td>
 
-`![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)`
+`![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=Ionic&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Jasmine</td>
-<td><img src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" alt="Jasmine"></td>
+<td><img src="https://img.shields.io/badge/jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" alt="Jasmine"></td>
 <td>
 
-`![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)`
+`![Jasmine](https://img.shields.io/badge/jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Jinja</td>
-<td><img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black" alt="Jinja"></td>
+<td><img src="https://img.shields.io/badge/jinja-white?style=for-the-badge&logo=jinja&logoColor=black" alt="Jinja"></td>
 <td>
 
-`![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)`
+`![Jinja](https://img.shields.io/badge/jinja-white?style=for-the-badge&logo=jinja&logoColor=black)`
 
 </td>
 </tr>
 <tr>
 <td>Joomla</td>
-<td><img src="https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white" alt="Joomla"></td>
+<td><img src="https://img.shields.io/badge/joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" alt="Joomla"></td>
 <td>
 
-`![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white)`
+`![Joomla](https://img.shields.io/badge/joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>jQuery</td>
-<td><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"></td>
+<td><img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"></td>
 <td>
 
-`![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)`
+`![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)`
 
 </td>
 </tr>
@@ -386,10 +386,10 @@ ay)</code></td>
 </tr>
 <tr>
 <td>Laravel</td>
-<td><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></td>
+<td><img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></td>
 <td>
 
-`![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)`
+`![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)`
 
 </td>
 </tr>
@@ -404,19 +404,19 @@ ay)</code></td>
 </tr>
 <tr>
 <td>MUI</td>
-<td><img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"></td>
+<td><img src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"></td>
 <td>
 
-`![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)`
+`![MUI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Meteor JS</td>
-<td><img src="https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white" alt="Metero JS"></td>
+<td><img src="https://img.shields.io/badge/meteorjs-d74c4c?style=for-the-badge&logo=meteor&logoColor=white" alt="Metero JS"></td>
 <td>
 
-`![Meteor JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white)`
+`![Meteor JS](https://img.shields.io/badge/meteorjs-d74c4c?style=for-the-badge&logo=meteor&logoColor=white)`
 
 </td>
 </tr>
@@ -431,10 +431,10 @@ ay)</code></td>
 </tr>
 <tr>
 <td>NestJS</td>
-<td><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"></td>
+<td><img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"></td>
 <td>
 
-`![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)`
+`![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)`
 
 </td>
 </tr>
@@ -476,19 +476,19 @@ ay)</code></td>
 </tr>
 <tr>
 <td>OpenCV</td>
-<td><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></td>
+<td><img src="https://img.shields.io/badge/opencv-white?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></td>
 <td>
 
-`![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)`
+`![OpenCV](https://img.shields.io/badge/opencv-white?style=for-the-badge&logo=opencv&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>OpenGL</td>
-<td><img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" alt="OpenGL"></td>
+<td><img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" alt="OpenGL"></td>
 <td>
 
-`![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)`
+`![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)`
 
 </td>
 </tr>
@@ -503,10 +503,10 @@ ay)</code></td>
 </tr>
 <tr>
 <td>Prefect</td>
-<td><img src="https://img.shields.io/badge/Prefect-%23ffffff.svg?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect"></td>
+<td><img src="https://img.shields.io/badge/Prefect-ffffff?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect"></td>
 <td>
 
-`![Prefect](https://img.shields.io/badge/Prefect-%23ffffff.svg?style=for-the-badge&logo=prefect&logoColor=white)`
+`![Prefect](https://img.shields.io/badge/Prefect-ffffff?style=for-the-badge&logo=prefect&logoColor=white)`
 
 </td>
 </tr>
@@ -530,10 +530,10 @@ ay)</code></td>
 </tr>
 <tr>
 <td>Qt</td>
-<td><img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt"></td>
+<td><img src="https://img.shields.io/badge/Qt-217346?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt"></td>
 <td>
 
-`![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)`
+`![Qt](https://img.shields.io/badge/Qt-217346?style=for-the-badge&logo=Qt&logoColor=white)`
 
 </td>
 </tr>
@@ -548,10 +548,10 @@ ay)</code></td>
 </tr>
 <tr>
 <td>ROS</td>
-<td><img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"></td>
+<td><img src="https://img.shields.io/badge/ros-0A0FF9?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"></td>
 <td>
 
-`![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)`
+`![ROS](https://img.shields.io/badge/ros-0A0FF9?style=for-the-badge&logo=ros&logoColor=white)`
 
 </td>
 </tr>
@@ -566,28 +566,28 @@ ay)</code></td>
 </tr>
 <tr>
 <td>Rails</td>
-<td><img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails"></td>
+<td><img src="https://img.shields.io/badge/rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails"></td>
 <td>
 
-`![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)`
+`![Rails](https://img.shields.io/badge/rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>React</td>
-<td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></td>
+<td><img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></td>
 <td>
 
-`![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)`
+`![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)`
 
 </td>
 </tr>
 <tr>
 <td>React Native</td>
-<td><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"></td>
+<td><img src="https://img.shields.io/badge/react_native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"></td>
 <td>
 
-`![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)`
+`![React Native](https://img.shields.io/badge/react_native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)`
 
 </td>
 </tr>
@@ -611,28 +611,28 @@ ay)</code></td>
 </tr>
 <tr>
 <td>React Hook Form</td>
-<td><img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form"></td>
+<td><img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form"></td>
 <td>
 
-`![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)`
+`![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Redux</td>
-<td><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"></td>
+<td><img src="https://img.shields.io/badge/redux-593d88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"></td>
 <td>
 
-`![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)`
+`![Redux](https://img.shields.io/badge/redux-593d88?style=for-the-badge&logo=redux&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Remix</td>
-<td><img src="https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white" alt="Remix"></td>
+<td><img src="https://img.shields.io/badge/remix-000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix"></td>
 <td>
 
-`![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)`
+`![Remix](https://img.shields.io/badge/remix-000?style=for-the-badge&logo=remix&logoColor=white)`
 
 </td>
 </tr>
@@ -647,28 +647,28 @@ ay)</code></td>
 </tr>
 <tr>
 <td>RxDB</td>
-<td><img src="https://img.shields.io/badge/rxdb-%238D1F89.svg?style=for-the-badge&logo=rxdb&logoColor=white" alt="RxDB"></td>
+<td><img src="https://img.shields.io/badge/rxdb-8D1F89?style=for-the-badge&logo=rxdb&logoColor=white" alt="RxDB"></td>
 <td>
 
-`![RxDB](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)`
+`![RxDB](https://img.shields.io/badge/rxjs-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>RxJS</td>
-<td><img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS"></td>
+<td><img src="https://img.shields.io/badge/rxjs-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS"></td>
 <td>
 
-`![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)`
+`![RxJS](https://img.shields.io/badge/rxjs-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>SASS</td>
-<td><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS"></td>
+<td><img src="https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS"></td>
 <td>
 
-`![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)`
+`![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white)`
 
 </td>
 </tr>
@@ -700,19 +700,19 @@ ay)</code></td>
 </tr>
 <tr>
 <td>Spring</td>
-<td><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"></td>
+<td><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"></td>
 <td>
 
-`![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)`
+`![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Strapi</td>
-<td><img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi"></td>
+<td><img src="https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi"></td>
 <td>
 
-`![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)`
+`![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)`
 
 </td>
 </tr>
@@ -727,46 +727,46 @@ ay)</code></td>
 </tr>
 <tr>
 <td>Stylus</td>
-<td><img src="https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white" alt="Stylus"></td>
+<td><img src="https://img.shields.io/badge/stylus-ff6347?style=for-the-badge&logo=stylus&logoColor=white" alt="Stylus"></td>
 <td>
 
-`![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white)`
+`![Stylus](https://img.shields.io/badge/stylus-ff6347?style=for-the-badge&logo=stylus&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Svelte</td>
-<td><img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"></td>
+<td><img src="https://img.shields.io/badge/svelte-f1413d?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"></td>
 <td>
 
-`![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)`
+`![Svelte](https://img.shields.io/badge/svelte-f1413d?style=for-the-badge&logo=svelte&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Symfony</td>
-<td><img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"></td>
+<td><img src="https://img.shields.io/badge/symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"></td>
 <td>
 
-`![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)`
+`![Symfony](https://img.shields.io/badge/symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>TailwindCSS</td>
-<td><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"></td>
+<td><img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"></td>
 <td>
 
-`![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)`
+`![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Tauri</td>
-<td><img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF" alt="Tauri"></td>
+<td><img src="https://img.shields.io/badge/tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=FFFFFF" alt="Tauri"></td>
 <td>
 
-`![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)`
+`![Tauri](https://img.shields.io/badge/tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=FFFFFF)`
 
 </td>
 </tr>
@@ -781,37 +781,37 @@ ay)</code></td>
 </tr>
 <tr>
 <td>Thymeleaf</td>
-<td><img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf"></td>
+<td><img src="https://img.shields.io/badge/Thymeleaf-005C0F?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf"></td>
 <td>
 
-`![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)`
+`![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005C0F?style=for-the-badge&logo=Thymeleaf&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>TypeGraphQL</td>
-<td><img src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge" alt="Type-graphql"></td>
+<td><img src="https://img.shields.io/badge/-TypeGraphQL-C04392?style=for-the-badge" alt="Type-graphql"></td>
 <td>
 
-`![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge)`
+`![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-C04392?style=for-the-badge)`
 
 </td>
 </tr>
 <tr>
 <td>Vite</td>
-<td><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></td>
+<td><img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></td>
 <td>
 
-`![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)`
+`![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Vue.js</td>
-<td><img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"></td>
+<td><img src="https://img.shields.io/badge/vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"></td>
 <td>
 
-`![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)`
+`![Vue.js](https://img.shields.io/badge/vuejs-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)`
 
 </td>
 </tr>
@@ -835,10 +835,10 @@ ay)</code></td>
 </tr>
 <tr>
 <td>Webpack</td>
-<td><img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"></td>
+<td><img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"></td>
 <td>
 
-`![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)`
+`![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)`
 
 </td>
 </tr>
@@ -853,19 +853,19 @@ ay)</code></td>
 </tr>
 <tr>
 <td>WindiCSS</td>
-<td><img src="https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white" alt="Windicss"></td>
+<td><img src="https://img.shields.io/badge/windicss-48B0F1?style=for-the-badge&logo=windi-css&logoColor=white" alt="Windicss"></td>
 <td>
 
-`![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white)`
+`![Windicss](https://img.shields.io/badge/windicss-48B0F1?style=for-the-badge&logo=windi-css&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>WordPress</td>
-<td><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"></td>
+<td><img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"></td>
 <td>
 
-`![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)`
+`![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white)`
 
 </td>
 </tr>
@@ -880,10 +880,10 @@ ay)</code></td>
 </tr>
 <tr>
 <td>Yarn</td>
-<td><img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"></td>
+<td><img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"></td>
 <td>
 
-`![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)`
+`![Yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)`
 
 </td>
 </tr>
@@ -933,82 +933,82 @@ ay)</code></td>
 <tbody>
 <tr>
 <td>Apache Groovy</td>
-<td><img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white" alt="Apache Groovy"></td>
+<td><img src="https://img.shields.io/badge/Apache%20Groovy-4298B8?style=for-the-badge&logo=Apache+Groovy&logoColor=white" alt="Apache Groovy"></td>
 <td>
 
-`![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)`
+`![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8?style=for-the-badge&logo=Apache+Groovy&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>C</td>
-<td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></td>
+<td><img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></td>
 <td>
 
-`![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)`
+`![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>C#</td>
-<td><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></td>
+<td><img src="https://img.shields.io/badge/c-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></td>
 <td>
 
-`![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)`
+`![C#](https://img.shields.io/badge/c-239120?style=for-the-badge&logo=c-sharp&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>C++</td>
-<td><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></td>
+<td><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></td>
 <td>
 
-`![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)`
+`![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Clojure</td>
-<td><img src="https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure" alt="Clojure"></td>
+<td><img src="https://img.shields.io/badge/Clojure-Clojure?style=for-the-badge&logo=Clojure&logoColor=Clojure" alt="Clojure"></td>
 <td>
 
-`![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)`
+`![Clojure](https://img.shields.io/badge/Clojure-Clojure?style=for-the-badge&logo=Clojure&logoColor=Clojure)`
 
 </td>
 </tr>
 <tr>
 <td>Crystal</td>
-<td><img src="https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white" alt="Crystal"></td>
+<td><img src="https://img.shields.io/badge/crystal-000000?style=for-the-badge&logo=crystal&logoColor=white" alt="Crystal"></td>
 <td>
 
-`![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white)`
+`![Crystal](https://img.shields.io/badge/crystal-000000?style=for-the-badge&logo=crystal&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>CSS3</td>
-<td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
+<td><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
 <td>
 
-`![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)`
+`![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Dart</td>
-<td><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></td>
+<td><img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></td>
 <td>
 
-`![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)`
+`![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Elixir</td>
-<td><img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir"></td>
+<td><img src="https://img.shields.io/badge/elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir"></td>
 <td>
 
-`![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)`
+`![Elixir](https://img.shields.io/badge/elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)`
 
 </td>
 </tr>
@@ -1023,28 +1023,28 @@ ay)</code></td>
 </tr>
 <tr>
 <td>Erlang</td>
-<td><img src="https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533" alt="Erlang"></td>
+<td><img src="https://img.shields.io/badge/Erlang-white?style=for-the-badge&logo=erlang&logoColor=a90533" alt="Erlang"></td>
 <td>
 
-`![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)`
+`![Erlang](https://img.shields.io/badge/Erlang-white?style=for-the-badge&logo=erlang&logoColor=a90533)`
 
 </td>
 </tr>
 <tr>
 <td>Fortran</td>
-<td><img src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran"></td>
+<td><img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran"></td>
 <td>
 
-`![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)`
+`![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Go/Golang</td>
-<td><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"></td>
+<td><img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"></td>
 <td>
 
-`![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)`
+`![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)`
 
 </td>
 </tr>
@@ -1068,28 +1068,28 @@ ay)</code></td>
 </tr>
 <tr>
 <td>HTML5</td>
-<td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
+<td><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
 <td>
 
-`![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)`
+`![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Java</td>
-<td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"></td>
+<td><img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"></td>
 <td>
 
-`![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)`
+`![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>JavaScript</td>
-<td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></td>
+<td><img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"></td>
 <td>
 
-`![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)`
+`![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)`
 
 </td>
 </tr>
@@ -1104,46 +1104,46 @@ ay)</code></td>
 </tr>
 <tr>
 <td>Kotlin</td>
-<td><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></td>
+<td><img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></td>
 <td>
 
-`![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)`
+`![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>LaTeX</td>
-<td><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"></td>
+<td><img src="https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"></td>
 <td>
 
-`![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)`
+`![LaTeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Lua</td>
-<td><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"></td>
+<td><img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"></td>
 <td>
 
-`![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)`
+`![Lua](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Markdown</td>
-<td><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"></td>
+<td><img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"></td>
 <td>
 
-`![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)`
+`![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Nim</td>
-<td><img src="https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white" alt="Nim"></td>
+<td><img src="https://img.shields.io/badge/nim-FFE953?style=for-the-badge&logo=nim&logoColor=white" alt="Nim"></td>
 <td>
 
-`![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white)`
+`![Nim](https://img.shields.io/badge/nim-FFE953?style=for-the-badge&logo=nim&logoColor=white)`
 
 </td>
 </tr>
@@ -1158,37 +1158,37 @@ ay)</code></td>
 </tr>
 <tr>
 <td>Org Mode</td>
-<td><img src="https://img.shields.io/badge/orgmode-%2377AA99.svg?style=for-the-badge&logo=org&logoColor=white" alt="Org Mode"></td>
+<td><img src="https://img.shields.io/badge/orgmode-77AA99?style=for-the-badge&logo=org&logoColor=white" alt="Org Mode"></td>
 <td>
 
-`![Org Mode](https://img.shields.io/badge/orgmode-%2377AA99.svg?style=for-the-badge&logo=org&logoColor=white)`
+`![Org Mode](https://img.shields.io/badge/orgmode-77AA99?style=for-the-badge&logo=org&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Perl</td>
-<td><img src="https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white" alt="Perl"></td>
+<td><img src="https://img.shields.io/badge/perl-39457E?style=for-the-badge&logo=perl&logoColor=white" alt="Perl"></td>
 <td>
 
-`![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)`
+`![Perl](https://img.shields.io/badge/perl-39457E?style=for-the-badge&logo=perl&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>PHP</td>
-<td><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></td>
+<td><img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></td>
 <td>
 
-`![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)`
+`![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>PowerShell</td>
-<td><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"></td>
+<td><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"></td>
 <td>
 
-`![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)`
+`![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)`
 
 </td>
 </tr>
@@ -1203,64 +1203,64 @@ ay)</code></td>
 </tr>
 <tr>
 <td>R</td>
-<td><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"></td>
+<td><img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></td>
 <td>
 
-`![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)`
+`![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>ReScript</td>
-<td><img src="https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c" alt="ReScript"></td>
+<td><img src="https://img.shields.io/badge/rescript-14162c?style=for-the-badge&logo=rescript&logoColor=e34c4c" alt="ReScript"></td>
 <td>
 
-`![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c)`
+`![ReScript](https://img.shields.io/badge/rescript-14162c?style=for-the-badge&logo=rescript&logoColor=e34c4c)`
 
 </td>
 </tr>
 <tr>
 <td>Ruby</td>
-<td><img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"></td>
+<td><img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"></td>
 <td>
 
-`![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)`
+`![Ruby](https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Rust</td>
-<td><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"></td>
+<td><img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"></td>
 <td>
 
-`![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)`
+`![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Scala</td>
-<td><img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" alt="Scala"></td>
+<td><img src="https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala"></td>
 <td>
 
-`![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)`
+`![Scala](https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Shell Script</td>
-<td><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"></td>
+<td><img src="https://img.shields.io/badge/shell_script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"></td>
 <td>
 
-`![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)`
+`![Shell Script](https://img.shields.io/badge/shell_script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Solidity</td>
-<td><img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"></td>
+<td><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"></td>
 <td>
 
-`![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)`
+`![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)`
 
 </td>
 </tr>
@@ -1275,28 +1275,28 @@ ay)</code></td>
 </tr>
 <tr>
 <td>TypeScript</td>
-<td><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></td>
+<td><img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></td>
 <td>
 
-`![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)`
+`![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Windows Terminal</td>
-<td><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"></td>
+<td><img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"></td>
 <td>
 
-`![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)`
+`![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>Zig</td>
-<td><img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white" alt="Zig"></td>
+<td><img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" alt="Zig"></td>
 <td>
 
-`![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)`
+`![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)`
 
 </td>
 </tr>
@@ -1324,10 +1324,10 @@ ay)</code></td>
 </tr>
 <tr>
 <td>Cassandra</td>
-<td><img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="ApacheCassandra"></td>
+<td><img src="https://img.shields.io/badge/cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="ApacheCassandra"></td>
 <td>
 
-`![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)`
+`![ApacheCassandra](https://img.shields.io/badge/cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)`
 
 </td>
 </tr>
@@ -1397,19 +1397,19 @@ te)</code></td>
 </tr>
 <tr>
 <td>MongoDB</td>
-<td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></td>
+<td><img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></td>
 <td>
 
-`![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)`
+`![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)`
 
 </td>
 </tr>
 <tr>
 <td>MySQL</td>
-<td><img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
+<td><img src="https://img.shields.io/badge/mysql-00000f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
 <td>
 
-`![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)`
+`![MySQL](https://img.shields.io/badge/mysql-00f?style=for-the-badge&logo=mysql&logoColor=white)`
 
 </td>
 </tr>
@@ -1424,10 +1424,10 @@ te)</code></td>
 </tr>
 <tr>
 <td>Postgres</td>
-<td><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"></td>
+<td><img src="https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"></td>
 <td>
 
-`![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)`
+`![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)`
 
 </td>
 </tr>
@@ -1442,10 +1442,10 @@ te)</code></td>
 </tr>
 <tr>
 <td>Redis</td>
-<td><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"></td>
+<td><img src="https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"></td>
 <td>
 
-`![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)`
+`![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)`
 
 </td>
 </tr>
@@ -1460,10 +1460,10 @@ te)</code></td>
 </tr>
 <tr>
 <td>SQLite</td>
-<td><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></td>
+<td><img src="https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></td>
 <td>
 
-`![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)`
+`![SQLite](https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)`
 
 </td>
 </tr>
