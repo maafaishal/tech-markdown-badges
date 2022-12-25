@@ -675,13 +675,11 @@ ay)</code></td>
 </td>
 </tr>
 <tr>
-<td>Semantic UI React</td>
-<td><img src="https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white" alt="Semantic UI React"></td>
+<td>Semantic UI</td>
+<td><img src="https://img.shields.io/badge/Semantic%20ui-35BCB2?style=for-the-badge&logo=SemanticUIReact&logoColor=white" alt="Semantic UI"></td>
 <td>
 
-`![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=whi`
-
-de></td>
+`![Semantic UI](https://img.shields.io/badge/Semantic%20ui-35BCB2?style=for-the-badge&logo=SemanticUIReact&logoColor=white`</td>
 
 </tr>
 <tr>
