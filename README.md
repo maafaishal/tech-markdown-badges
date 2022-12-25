@@ -1496,3 +1496,7 @@ te)</code></td>
 </tr>
 </tbody>
 </table>
+
+## Reference
+
+- https://github.com/Ileriayo/markdown-badges
