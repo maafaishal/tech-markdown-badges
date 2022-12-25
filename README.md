@@ -921,6 +921,28 @@ ay)</code></td>
 </tbody>
 </table>
 
+## Tools
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Badge</th>
+<th>Markdown</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ESLint</td>
+<td><img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint" alt="ESLint"></td>
+<td>
+
+`![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint)`
+
+</td>
+</tr>
+</tbody>
+</table>
+
 ## Languages
 <table>
 <thead>
