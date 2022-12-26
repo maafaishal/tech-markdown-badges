@@ -729,15 +729,7 @@ ay)</code></td>
 
 </td>
 </tr>
-<tr>
-<td>Vite</td>
-<td><img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></td>
-<td>
 
-`![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)`
-
-</td>
-</tr>
 <tr>
 <td>Vue.js</td>
 <td><img src="https://img.shields.io/badge/vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"></td>
@@ -937,6 +929,7 @@ ay)</code></td>
 
 </td>
 </tr>
+
 <tr>
 <td>SWC</td>
 <td><img src="https://img.shields.io/badge/swc-111111?style=for-the-badge&logo=swc&logoColor=F5D140" alt="SWC"></td>
@@ -946,6 +939,17 @@ ay)</code></td>
 
 </td>
 </tr>
+
+<tr>
+<td>Vite</td>
+<td><img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></td>
+<td>
+
+`![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)`
+
+</td>
+</tr>
+
 </tbody>
 </table>
 
