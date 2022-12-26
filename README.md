@@ -5,6 +5,7 @@ A collection of technology (framework, library, database, language) markdown bad
 # Badges
 
 ## Frameworks, Platforms and Libraries
+
 <table>
 <thead>
 <tr>
@@ -69,15 +70,6 @@ A collection of technology (framework, library, database, language) markdown bad
 </td>
 </tr>
 <tr>
-<td>Ant Design</td>
-<td><img src="https://img.shields.io/badge/-AntDesign-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant-Design"></td>
-<td>
-
-`![Ant-Design](https://img.shields.io/badge/-AntDesign-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)`
-
-</td>
-</tr>
-<tr>
 <td>Apache Kafka</td>
 <td><img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Apache Kafka"></td>
 <td>
@@ -114,15 +106,6 @@ A collection of technology (framework, library, database, language) markdown bad
 </td>
 </tr>
 <tr>
-<td>Bootstrap</td>
-<td><img src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></td>
-<td>
-
-`![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)`
-
-</td>
-</tr>
-<tr>
 <td>Buefy</td>
 <td><img src="https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&logo=buefy&logoColor=48289E" alt="Buefy"></td>
 <td>
@@ -131,25 +114,7 @@ A collection of technology (framework, library, database, language) markdown bad
 
 </td>
 </tr>
-<tr>
-<td>Bulma</td>
-<td><img src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white" alt="Bulma"></td>
-<td>
 
-`![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)`
-
-</td>
-</tr>
-<tr>
-<td> <a href="https://chakra-ui.com/">Chakra UI</a> </td>
-<td><img src="https://img.shields.io/badge/chakra-2BBFB3?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra"></td>
-<td>
-
-`![Chakra](https://img.shields.io/badge/chakra-2BBFB3?style=for-the-badge&logo=chakraui&logoColor=white)`
-
-</td>
-</tr>
-<tr>
 <td>Chart.js</td>
 <td><img src="https://img.shields.io/badge/chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"></td>
 <td>
@@ -402,15 +367,7 @@ ay)</code></td>
 
 </td>
 </tr>
-<tr>
-<td>MUI</td>
-<td><img src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"></td>
-<td>
 
-`![MUI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)`
-
-</td>
-</tr>
 <tr>
 <td>Meteor JS</td>
 <td><img src="https://img.shields.io/badge/meteorjs-d74c4c?style=for-the-badge&logo=meteor&logoColor=white" alt="Metero JS"></td>
@@ -673,14 +630,6 @@ ay)</code></td>
 </td>
 </tr>
 <tr>
-<td>Semantic UI</td>
-<td><img src="https://img.shields.io/badge/Semantic%20ui-35BCB2?style=for-the-badge&logo=SemanticUIReact&logoColor=white" alt="Semantic UI"></td>
-<td>
-
-`![Semantic UI](https://img.shields.io/badge/Semantic%20ui-35BCB2?style=for-the-badge&logo=SemanticUIReact&logoColor=white`</td>
-
-</tr>
-<tr>
 <td>Socket.io</td>
 <td><img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io"></td>
 <td>
@@ -716,15 +665,7 @@ ay)</code></td>
 
 </td>
 </tr>
-<tr>
-<td>Styled Components</td>
-<td><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"></td>
-<td>
 
-`![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)`
-
-</td>
-</tr>
 <tr>
 <td>Stylus</td>
 <td><img src="https://img.shields.io/badge/stylus-ff6347?style=for-the-badge&logo=stylus&logoColor=white" alt="Stylus"></td>
@@ -749,15 +690,6 @@ ay)</code></td>
 <td>
 
 `![Symfony](https://img.shields.io/badge/symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)`
-
-</td>
-</tr>
-<tr>
-<td>TailwindCSS</td>
-<td><img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"></td>
-<td>
-
-`![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)`
 
 </td>
 </tr>
@@ -851,15 +783,7 @@ ay)</code></td>
 
 </td>
 </tr>
-<tr>
-<td>WindiCSS</td>
-<td><img src="https://img.shields.io/badge/windicss-48B0F1?style=for-the-badge&logo=windi-css&logoColor=white" alt="Windicss"></td>
-<td>
 
-`![Windicss](https://img.shields.io/badge/windicss-48B0F1?style=for-the-badge&logo=windi-css&logoColor=white)`
-
-</td>
-</tr>
 <tr>
 <td>WordPress</td>
 <td><img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"></td>
@@ -890,7 +814,111 @@ ay)</code></td>
 </tbody>
 </table>
 
+## UI Libraries
+
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Badge</th>
+<th>Markdown</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ant Design</td>
+<td><img src="https://img.shields.io/badge/-AntDesign-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant-Design"></td>
+<td>
+
+`![Ant-Design](https://img.shields.io/badge/-AntDesign-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)`
+
+</td>
+</tr>
+
+<tr>
+<td>Bootstrap</td>
+<td><img src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></td>
+<td>
+
+`![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)`
+
+</td>
+</tr>
+
+<tr>
+<td>Bulma</td>
+<td><img src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white" alt="Bulma"></td>
+<td>
+
+`![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)`
+
+</td>
+</tr>
+
+<tr>
+<td> <a href="https://chakra-ui.com/">Chakra UI</a> </td>
+<td><img src="https://img.shields.io/badge/chakra-2BBFB3?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra"></td>
+<td>
+
+`![Chakra](https://img.shields.io/badge/chakra-2BBFB3?style=for-the-badge&logo=chakraui&logoColor=white)`
+
+</td>
+</tr>
+
+<tr>
+<td>MUI</td>
+<td><img src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"></td>
+<td>
+
+`![MUI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)`
+
+</td>
+</tr>
+
+<tr>
+<td>Semantic UI</td>
+<td><img src="https://img.shields.io/badge/Semantic%20ui-35BCB2?style=for-the-badge&logo=SemanticUIReact&logoColor=white" alt="Semantic UI"></td>
+<td>
+
+`![Semantic UI](https://img.shields.io/badge/Semantic%20ui-35BCB2?style=for-the-badge&logo=SemanticUIReact&logoColor=white`</td>
+
+</tr>
+
+<tr>
+<td>Styled Components</td>
+<td><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"></td>
+<td>
+
+`![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)`
+
+</td>
+</tr>
+
+<tr>
+<td>TailwindCSS</td>
+<td><img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"></td>
+<td>
+
+`![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)`
+
+</td>
+</tr>
+
+<tr>
+<td>WindiCSS</td>
+<td><img src="https://img.shields.io/badge/windicss-48B0F1?style=for-the-badge&logo=windi-css&logoColor=white" alt="Windicss"></td>
+<td>
+
+`![Windicss](https://img.shields.io/badge/windicss-48B0F1?style=for-the-badge&logo=windi-css&logoColor=white)`
+
+</td>
+</tr>
+
+</tbody>
+</table>
+
 ## Bundlers and Compilers
+
 <table>
 <thead>
 <tr>
@@ -922,6 +950,7 @@ ay)</code></td>
 </table>
 
 ## Tools
+
 <table>
 <thead>
 <tr>
@@ -944,6 +973,7 @@ ay)</code></td>
 </table>
 
 ## Languages
+
 <table>
 <thead>
 <tr>
@@ -1326,6 +1356,7 @@ ay)</code></td>
 </table>
 
 ## Databases
+
 <table>
 <thead>
 <tr>
