@@ -4,7 +4,7 @@
   "description": "A collection of technology (framework, library, database, language) markdown badges that can be added to your projects or profile.",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon scripts/index.ts"
+    "server": "nodemon scripts/index.ts"
   },
   "repository": {
     "type": "git",
