@@ -1,6 +1,8 @@
 import fastify from "fastify";
 import fetch from "node-fetch";
 
+import badges from "./badges";
+
 const app = fastify({ logger: true, caseSensitive: false });
 
 // Declare a route
@@ -15,16 +17,16 @@ app.get("/", async (_, reply) => {
   reply.send(textResponse);
 });
 
-app.get("/swc", async (_, reply) => {
-  reply.header("Content-Type", "image/svg+xml");
+for (const badge of badges) {
+  app.get(`/${badge.name}`, async (_, reply) => {
+    reply.header("Content-Type", "image/svg+xml");
 
-  const response = await fetch(
-    "https://img.shields.io/badge/swc-111111?style=for-the-badge&logo=swc&logoColor=F5D140"
-  );
-  const textResponse = await response.text();
+    const response = await fetch(badge.url);
+    const textResponse = await response.text();
 
-  reply.send(textResponse);
-});
+    reply.send(textResponse);
+  });
+}
 
 // Run the server!
 app.listen({ port: 3000 }, (err) => {
