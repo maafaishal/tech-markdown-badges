@@ -1,7 +1,7 @@
 import fastify from "fastify";
 import fetch from "node-fetch";
 
-const app = fastify({ logger: true });
+const app = fastify({ logger: true, caseSensitive: false });
 
 // Declare a route
 app.get("/", async (_, reply) => {
