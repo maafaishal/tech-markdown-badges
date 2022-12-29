@@ -931,6 +931,16 @@ ay)</code></td>
 </tr>
 
 <tr>
+<td>Esbuild</td>
+<td><img src="https://img.shields.io/badge/esbuild-191919?style=for-the-badge&logo=esbuild" alt="Esbuild"></td>
+<td>
+
+`![Esbuild](https://img.shields.io/badge/esbuild-191919?style=for-the-badge&logo=esbuild)`
+
+</td>
+</tr>
+
+<tr>
 <td>SWC</td>
 <td><img src="https://img.shields.io/badge/swc-111111?style=for-the-badge&logo=swc&logoColor=F5D140" alt="SWC"></td>
 <td>
