@@ -995,6 +995,16 @@ ay)</code></td>
 </td>
 </tr>
 
+<tr>
+<td>Prettier</td>
+<td><img src="https://img.shields.io/badge/prettier-1B2B34?style=for-the-badge&logo=prettier" alt="Prettier"></td>
+<td>
+
+`![Prettier](https://img.shields.io/badge/prettier-1B2B34?style=for-the-badge&logo=prettier)`
+
+</td>
+</tr>
+
 </tbody>
 </table>
 
