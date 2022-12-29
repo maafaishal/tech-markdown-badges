@@ -964,6 +964,17 @@ ay)</code></td>
 </tr>
 </thead>
 <tbody>
+
+<tr>
+<td>Commitlint</td>
+<td><img src="https://img.shields.io/badge/commitlint-121212?style=for-the-badge&logo=commitlint&logoColor=51b1dd" alt="Commitlint"></td>
+<td>
+
+`![Commitlint](https://img.shields.io/badge/commitlint-121212?style=for-the-badge&logo=commitlint&logoColor=51b1dd)`
+
+</td>
+</tr>
+
 <tr>
 <td>ESLint</td>
 <td><img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint" alt="ESLint"></td>
@@ -973,6 +984,7 @@ ay)</code></td>
 
 </td>
 </tr>
+
 </tbody>
 </table>
 
