@@ -1,5 +1,3 @@
-https://img.shields.io/badge/esbuild-191919?style=for-the-badge&logo=esbuild - bundlers
-https://img.shields.io/badge/prettier-1B2B34?style=for-the-badge&logo=prettier - tools
 https://img.shields.io/badge/pnpm-4A4A4A?style=for-the-badge&logo=pnpm - package manager
 https://img.shields.io/badge/turborepo-000000?style=for-the-badge&logo=turborepo - build
 https://img.shields.io/badge/playwright-304856?style=for-the-badge&logo=playwright - tools
