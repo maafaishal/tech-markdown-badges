@@ -1,7 +1,7 @@
 import fastify from "fastify";
 import fetch from "node-fetch";
 
-import badges from "./scripts/badges";
+import badges from "./badges";
 
 const app = fastify({ logger: true, caseSensitive: false });
 
