@@ -7,6 +7,7 @@ const app = fastify({ logger: true, caseSensitive: false });
 
 // Declare a route
 app.get("/", async (_, reply) => {
+  reply.header('Cache-Control', 's-maxage=86400');
   reply.header("Content-Type", "image/svg+xml");
 
   const response = await fetch(
@@ -19,6 +20,7 @@ app.get("/", async (_, reply) => {
 
 for (const badge of badges) {
   app.get(`/${badge.name}`, async (_, reply) => {
+    reply.header('Cache-Control', 's-maxage=86400');
     reply.header("Content-Type", "image/svg+xml");
 
     const response = await fetch(badge.url);
