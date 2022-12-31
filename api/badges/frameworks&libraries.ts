@@ -20,15 +20,15 @@ export default [
     url: "https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white",
   },
   {
-    name: "Angular.js",
+    name: "Angularjs",
     url: "https://img.shields.io/badge/angular.js-E23237?style=for-the-badge&logo=angularjs&logoColor=white",
   },
   {
-    name: "Apache Kafka",
+    name: "ApacheKafka",
     url: "https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka",
   },
   {
-    name: "Apollo-GraphQL",
+    name: "ApolloGraphQL",
     url: "https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql",
   },
   {
@@ -44,15 +44,15 @@ export default [
     url: "https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&logo=buefy&logoColor=48289E",
   },
   {
-    name: "Chart.js",
+    name: "Chartjs",
     url: "https://img.shields.io/badge/chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white",
   },
   {
-    name: "Code-Igniter",
+    name: "CodeIgniter",
     url: "https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white",
   },
   {
-    name: "Deno JS",
+    name: "DenoJS",
     url: "https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white",
   },
   {
@@ -72,7 +72,7 @@ export default [
     url: "https://img.shields.io/badge/drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white",
   },
   {
-    name: "Electron.js",
+    name: "Electronjs",
     url: "https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white",
   },
   {
@@ -84,7 +84,7 @@ export default [
     url: "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37",
   },
   {
-    name: "Express.js",
+    name: "Expressjs",
     url: "https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB",
   },
   {
@@ -108,7 +108,7 @@ export default [
     url: "https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white",
   },
   {
-    name: "Green Sock",
+    name: "GreenSock",
     url: "https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white",
   },
   {
@@ -156,7 +156,7 @@ export default [
     url: "https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white",
   },
   {
-    name: "Meteor JS",
+    name: "MeteorJS",
     url: "https://img.shields.io/badge/meteorjs-d74c4c?style=for-the-badge&logo=meteor&logoColor=white",
   },
   {
@@ -168,7 +168,7 @@ export default [
     url: "https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white",
   },
   {
-    name: "Next JS",
+    name: "NextJS",
     url: "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white",
   },
   {
@@ -236,19 +236,19 @@ export default [
     url: "https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB",
   },
   {
-    name: "React Native",
+    name: "ReactNative",
     url: "https://img.shields.io/badge/react_native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB",
   },
   {
-    name: "React Query",
+    name: "ReactQuery",
     url: "https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white",
   },
   {
-    name: "React Router",
+    name: "ReactRouter",
     url: "https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white",
   },
   {
-    name: "React Hook Form",
+    name: "ReactHookForm",
     url: "https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white",
   },
   {
@@ -320,7 +320,7 @@ export default [
     url: "https://img.shields.io/badge/-TypeGraphQL-C04392?style=for-the-badge",
   },
   {
-    name: "Vue.js",
+    name: "Vuejs",
     url: "https://img.shields.io/badge/vuejs-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D",
   },
   {
@@ -336,7 +336,7 @@ export default [
     url: "https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black",
   },
   {
-    name: "Web3.js",
+    name: "Web3js",
     url: "https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white",
   },
   {
