@@ -276,7 +276,7 @@ export default [
     url: "https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white",
   },
   {
-    name: "Socket.io",
+    name: "Socketio",
     url: "https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101",
   },
   {
@@ -316,7 +316,7 @@ export default [
     url: "https://img.shields.io/badge/Thymeleaf-005C0F?style=for-the-badge&logo=Thymeleaf&logoColor=white",
   },
   {
-    name: "Type-graphql",
+    name: "TypeGraphQL",
     url: "https://img.shields.io/badge/-TypeGraphQL-C04392?style=for-the-badge",
   },
   {
