@@ -1,0 +1,31 @@
+{
+  "name": "tech-markdown-badges",
+  "version": "1.0.0",
+  "description": "A collection of technology (framework, library, database, language) markdown badges that can be added to your projects or profile.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maafaishal/tech-markdown-badges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maafaishal/tech-markdown-badges/issues"
+  },
+  "homepage": "https://github.com/maafaishal/tech-markdown-badges#readme",
+  "dependencies": {
+    "@fastify/static": "^6.6.0",
+    "fastify": "^4.10.2",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^16.18.11",
+    "@types/node-fetch": "^2.6.2",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  }
+}
