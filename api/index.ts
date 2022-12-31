@@ -6,7 +6,7 @@ import badges from "./badges";
 const app = fastify({ logger: true, caseSensitive: false });
 
 // Declare a route
-app.get("/api", async (_, reply) => {
+app.get("/", async (_, reply) => {
   reply.header("Content-Type", "image/svg+xml");
 
   const response = await fetch(
@@ -36,4 +36,7 @@ app.listen({ port: 3000 }, (err) => {
   }
 });
 
-module.exports = app;
+export default async (req: any, res: any) => {
+  await app.ready();
+  app.server.emit('request', req, res);
+}
