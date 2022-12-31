@@ -2,9 +2,32 @@
 
 A collection of technology (framework, library, database, language) markdown badges that can be added to your projects or profile.
 
-# Badges
+## Usage
 
-## Frameworks, Platforms and Libraries
+To use a badge:
+1. Find the badge you are looking for
+2. Replace '[badge_name]' to the badge name (e.g React) 
+3. Copy the markdown and paste onto Readme.md
+
+
+### Example
+The markdown:
+```
+![Badge](https://tech-badges.vercel.app/[badge_name])
+```
+
+result:
+
+```
+![Badge](https://tech-badges.vercel.app/React)
+```
+
+![Badge](https://tech-badges.vercel.app/React)
+
+
+## Badges
+
+### Frameworks, Platforms and Libraries
 
 <table>
 <thead>
@@ -375,7 +398,7 @@ A collection of technology (framework, library, database, language) markdown bad
 </tbody>
 </table>
 
-## UI Libraries
+### UI Libraries
 
 <table>
 <thead>
@@ -432,7 +455,7 @@ A collection of technology (framework, library, database, language) markdown bad
 </tbody>
 </table>
 
-## Bundlers and Compilers
+### Bundlers and Compilers
 
 <table>
 <thead>
@@ -465,7 +488,7 @@ A collection of technology (framework, library, database, language) markdown bad
 </tbody>
 </table>
 
-## Tools
+### Tools
 
 <table>
 <thead>
@@ -494,7 +517,7 @@ A collection of technology (framework, library, database, language) markdown bad
 </tbody>
 </table>
 
-## Languages
+### Languages
 
 <table>
 <thead>
@@ -671,7 +694,7 @@ A collection of technology (framework, library, database, language) markdown bad
 </tbody>
 </table>
 
-## Databases
+### Databases
 
 <table>
 <thead>
