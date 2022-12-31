@@ -35,5 +35,3 @@ app.listen({ port: 3000 }, (err) => {
     process.exit(1);
   }
 });
-
-module.exports = app;
