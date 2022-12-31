@@ -12,7 +12,7 @@ export default [
     url: "https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white",
   },
   {
-    name: "Chakra",
+    name: "ChakraUI",
     url: "https://img.shields.io/badge/chakra-2BBFB3?style=for-the-badge&logo=chakraui&logoColor=white",
   },
   {
@@ -20,11 +20,11 @@ export default [
     url: "https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white",
   },
   {
-    name: "Semantic UI",
+    name: "SemanticUI",
     url: "https://img.shields.io/badge/Semantic%20ui-35BCB2?style=for-the-badge&logo=SemanticUIReact&logoColor=white",
   },
   {
-    name: "Styled Components",
+    name: "StyledComponents",
     url: "https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white",
   },
   {
