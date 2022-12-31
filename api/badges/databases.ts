@@ -60,7 +60,7 @@ export default [
     url: "https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white",
   },
   {
-    name: "Single Store",
+    name: "SingleStore",
     url: "https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white",
   },
   {
