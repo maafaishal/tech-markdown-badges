@@ -458,6 +458,17 @@ ay)</code></td>
 
 </td>
 </tr>
+
+<tr>
+<td>Playwright</td>
+<td><img src="https://img.shields.io/badge/playwright-304856?style=for-the-badge&logo=playwright" alt="Playwright©"></td>
+<td>
+
+`![Playwright](https://img.shields.io/badge/playwright-304856?style=for-the-badge&logo=playwright)`
+
+</td>
+</tr>
+
 <tr>
 <td>Prefect</td>
 <td><img src="https://img.shields.io/badge/Prefect-ffffff?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect"></td>
