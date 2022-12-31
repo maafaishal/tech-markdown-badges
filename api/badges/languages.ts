@@ -8,8 +8,8 @@ export default [
     url: "https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white",
   },
   {
-    name: "C#",
-    url: "https://img.shields.io/badge/c-239120?style=for-the-badge&logo=c-sharp&logoColor=white",
+    name: "CSharp",
+    url: "https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white",
   },
   {
     name: "C++",
@@ -100,7 +100,7 @@ export default [
     url: "https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683",
   },
   {
-    name: "Org Mode",
+    name: "OrgMode",
     url: "https://img.shields.io/badge/orgmode-77AA99?style=for-the-badge&logo=org&logoColor=white",
   },
   {
@@ -140,7 +140,7 @@ export default [
     url: "https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white",
   },
   {
-    name: "Shell Script",
+    name: "ShellScript",
     url: "https://img.shields.io/badge/shell_script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white",
   },
   {
@@ -156,7 +156,7 @@ export default [
     url: "https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white",
   },
   {
-    name: "Windows Terminal",
+    name: "WindowsTerminal",
     url: "https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white",
   },
   {
