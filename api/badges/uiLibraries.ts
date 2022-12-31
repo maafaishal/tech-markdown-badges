@@ -1,6 +1,6 @@
 export default [
   {
-    name: "Ant-Design",
+    name: "AntDesign",
     url: "https://img.shields.io/badge/-AntDesign-0170FE?style=for-the-badge&logo=ant-design&logoColor=white",
   },
   {

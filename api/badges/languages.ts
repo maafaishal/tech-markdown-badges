@@ -1,6 +1,6 @@
 export default [
   {
-    name: "Apache Groovy",
+    name: "ApacheGroovy",
     url: "https://img.shields.io/badge/Apache%20Groovy-4298B8?style=for-the-badge&logo=Apache+Groovy&logoColor=white",
   },
   {
