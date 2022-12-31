@@ -1,6 +1,5 @@
 https://img.shields.io/badge/pnpm-4A4A4A?style=for-the-badge&logo=pnpm - package manager
 https://img.shields.io/badge/turborepo-000000?style=for-the-badge&logo=turborepo - build
-https://img.shields.io/badge/playwright-304856?style=for-the-badge&logo=playwright - tools
 https://img.shields.io/badge/astro-0f172a?style=for-the-badge&logo=astro - framework
 https://img.shields.io/badge/koa-282E36?style=for-the-badge&logo=koa - server
 https://img.shields.io/badge/vitest-242424?style=for-the-badge&logo=vitest - test
