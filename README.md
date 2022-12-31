@@ -6,7 +6,7 @@ A collection of technology (framework, library, database, language) markdown bad
 
 To use a badge:
 1. Find the badge you are looking for
-2. Replace '[badge_name]' to the badge name (e.g React) 
+2. Replace `[badge_name]` to the badge name (e.g React) 
 3. Copy the markdown and paste onto Readme.md
 
 
