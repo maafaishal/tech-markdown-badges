@@ -173,7 +173,7 @@ export default [
   },
   {
     name: "NodeJS",
-    url: "https://img.shields.io/badge/node.js-233155?style=for-the-badge&logo=node.js",
+    url: "https://img.shields.io/badge/node%20js-233155?style=for-the-badge&logo=node.js",
   },
   {
     name: "Nuxtjs",
