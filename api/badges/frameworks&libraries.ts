@@ -101,7 +101,7 @@ export default [
   },
   {
     name: "Flutter",
-    url: "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white",
+    url: "https://img.shields.io/badge/Flutter-00C7FA?style=for-the-badge&logo=Flutter",
   },
   {
     name: "Gatsby",
