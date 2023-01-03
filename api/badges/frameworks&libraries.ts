@@ -321,7 +321,7 @@ export default [
   },
   {
     name: "Vuejs",
-    url: "https://img.shields.io/badge/vuejs-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D",
+    url: "https://img.shields.io/badge/vue%20js-34485E?style=for-the-badge&logo=vuedotjs",
   },
   {
     name: "Vuetify",
