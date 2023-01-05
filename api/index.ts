@@ -20,7 +20,7 @@ app.get("/", async (_, reply) => {
 
 for (const badge of badges) {
   app.get(`/${badge.name}`, async (_, reply) => {
-    reply.header('Cache-Control', 's-maxage=86400');
+    reply.header('Cache-Control', 's-maxage=86400, max-age=86400, public');
     reply.header("Content-Type", "image/svg+xml");
 
     const response = await fetch(badge.url);
