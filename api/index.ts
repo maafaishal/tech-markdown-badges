@@ -1,19 +1,13 @@
 import fastify from "fastify";
-import fastifyCaching from "@fastify/caching";
-
 import fetch from "node-fetch";
 
 import badges from "./badges";
 
 const app = fastify({ logger: true, caseSensitive: false });
 
-app.register(
-  fastifyCaching,
-  { expiresIn: 86400, serverExpiresIn: 86400 },
-);
-
 // Declare a route
 app.get("/", async (_, reply) => {
+  reply.header('Cache-Control', 's-maxage=86400');
   reply.header("Content-Type", "image/svg+xml");
 
   const response = await fetch(
@@ -26,6 +20,7 @@ app.get("/", async (_, reply) => {
 
 for (const badge of badges) {
   app.get(`/${badge.name}`, async (_, reply) => {
+    reply.header('Cache-Control', 's-maxage=86400');
     reply.header("Content-Type", "image/svg+xml");
 
     const response = await fetch(badge.url);
@@ -45,5 +40,5 @@ app.listen({ port: 3000 }, (err) => {
 
 export default async (req: any, res: any) => {
   await app.ready();
-  app.server.emit("request", req, res);
-};
+  app.server.emit('request', req, res);
+}
