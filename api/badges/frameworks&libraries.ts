@@ -265,7 +265,7 @@ export default [
   },
   {
     name: "RxDB",
-    url: "https://img.shields.io/badge/rxjs-B7178C?style=for-the-badge&logo=reactivex&logoColor=white",
+    url: "https://img.shields.io/badge/rxdb-%238D1F89.svg?style=for-the-badge&logo=rxdb&logoColor=white",
   },
   {
     name: "RxJS",
