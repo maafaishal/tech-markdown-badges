@@ -29,7 +29,7 @@ export default [
   },
   {
     name: "TailwindCSS",
-    url: "https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwind-css©",
+    url: "https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwind-css",
   },
   {
     name: "Windicss",
