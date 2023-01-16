@@ -72,8 +72,8 @@ export default [
     url: "https://img.shields.io/badge/drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white",
   },
   {
-    name: "Electronjs",
-    url: "https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white",
+    name: "Electron",
+    url: "https://img.shields.io/badge/Electron-1B1C26?style=for-the-badge&logo=Electron",
   },
   {
     name: "Ember",
