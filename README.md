@@ -110,8 +110,8 @@ result:
 <td><img src="https://tech-badges.vercel.app/drupal" alt="Drupal"></td>
 </tr>
 <tr>
-<td>Electronjs</td>
-<td><img src="https://tech-badges.vercel.app/Electronjs" alt="Electronjs"></td>
+<td>Electron</td>
+<td><img src="https://tech-badges.vercel.app/Electron" alt="Electron"></td>
 </tr>
 <tr>
 <td>Ember</td>
